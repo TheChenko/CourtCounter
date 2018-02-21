@@ -72,4 +72,6 @@ public class MainActivity extends AppCompatActivity {
         displayForTeamA(scoreTeamA);
         displayForTeamB(scoreTeamB);
     }
+    
+    //someone fixed my errors
 }
